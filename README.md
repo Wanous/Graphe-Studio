@@ -39,6 +39,22 @@ votre graphe à partir de quelques cliques :
 Voici à quoi ressemble ces menus :
 # ![Logo.png](https://github.com/Wanous/Graphe-Studio/blob/main/Ressources/EditionNoeud.png)
 # ![Logo.png](https://github.com/Wanous/Graphe-Studio/blob/main/Ressources/CreationNoeud.png)
+
+## Menu
+
+Graphe Studio contient un menu dans lequel vous trouverez tout ce qu'il vous faut pour configurer 
+vos préférences comme sauvegarder votre graphe .
+
+Voici un tableau contenant les noms et rôles de chaque menu de la barre :
+
+| Menu | rôle |
+| ------ | ------ |
+| Fichier | Menu permettant de sauvegarder/importer un graphe `.graf` ,de commmencer un nouveau graphe ,de prendre une photo d'un graphe en `.png` et de quitter le logiciel .|
+| Doc | Menu contenant des informations sur les types de graphes que contient le logiciel pour aider.Pratique pour ceux qui ne connaissent pas/oublier ce que sont les graphes .  |
+| Console |  Menu permettant l'ouverture de la console ,un outil pour effectuer des opérations avancés sur un graphe comme un parcours en profondeur ou l'algorithme de Dijkstra .  |
+| Preferences | Menu permettant de choisir la couleur du tableur et du canevas ainsi que de faire apparaître ou disparaître des informations sur le canevas pour une meilleurs visibilité .Il donne aussi la possiblité de sauvegarder les préférences . |
+| Projet | Menu affichant un simple message qui indique que c'est un projet réaliser dans le cadre d'un concours|
+
   
 #### Boutons
 
