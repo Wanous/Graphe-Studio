@@ -19,8 +19,36 @@ appliquant la théorie des graphes .
 Le logiciel débutera par une fenêtre dans laquelle vous pourrez choisir un type de graphe à crée 
 ou vous pouvez directement en importer un .
 
-Aussi l'interface de l'application a été produit avec la bibliothèque Tkinter dont voici une photo :
+Suite à cela vous serez accueilli par l'interface principale dans laquelle vous pourrez laisser
+libre cours à votre créativité pour votre graphe .
+Aussi l'interface de l'application a été produit avec la bibliothèque Tkinter dont voici une photo 
+mettant en valeur les possibilités offertes :
 
-# ![image.png](./examples/calcul.png)
+# ![Logo.png](https://github.com/Wanous/Graphe-Studio/blob/main/Ressources/Interface.png)
 
-La fenêtre est redimensionnable et 
+(Dans cette exemple un fichier `.graf` à été importé)
+
+## Interragir avec votre graphe 
+Il est possible d'ajouter,de supprimer ou même de modifier un noeud de 
+votre graphe à partir de quelque clique :
+
+- `Clique gauche sur un noeud` : Modifier ou supprimer un noeud
+- `Clique gauche hors d'un noeud` : Ajouter un noeud
+- `Clique droit sur un noeud` : permet de le sélectionner pour le déplacer
+  
+#### Boutons
+
+Les boutons ambigus sont répertoriés ici, les autres sont faciles à comprendre
+
+- `C` : Effacer l'entrée (et l'ancien résultat)
+- `DEL` : Supprimez le dernier caractère de l'entrée
+- `d/dx` : Dérivez l'entrée
+- `x^n` : Ajoutez `^` à l'entrée (par exemple `2^3` sera `8`)
+- `x` : Ajoutez `x` à l'entrée
+- `Draw` : Dessinez l'entrée sous forme d'arbre
+- `Hist.` : Passer à l'onglet de l'historique
+- `=` : Ajoutez `=` à l'entrée
+- `EXE` : Calculez l'entrée (ou résolvez l'équation, en fonction de la présence de = dans l'expression)
+
+
+
