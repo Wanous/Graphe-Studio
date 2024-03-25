@@ -31,7 +31,7 @@ Aussi l'interface de l'application a été produit avec la bibliothèque Tkinter
 
 Voici une photo pour illuster l'interface en mettant en valeur les possibilités offertes :
 
-# ![Logo.png](https://github.com/Wanous/Graphe-Studio/blob/main/Ressources/Interface.png)
+<img alt="Image de l'interface" style="height:75%;width:75%;" src="https://github.com/Wanous/Graphe-Studio/blob/main/Ressources/Interface.png">
 
 (Dans cette exemple un fichier `.graf` à été importé)
 
@@ -41,13 +41,13 @@ votre graphe à partir de quelques cliques :
 
 - `Clique gauche sur un noeud` : Modifier ou supprimer un noeud
 - `Clique gauche hors d'un noeud` : Ajouter un noeud
-- `Clique droit sur un noeud` : permet de le sélectionner pour le déplacer
+- `Clique droit sur un noeud` : Permet de sélectionner un noeud pour le déplacer
 
 Voici à quoi ressemble ces menus :
 
 <div align=left>
-  <img alt="Image du menu d'édition d'un noeud" src="https://github.com/Wanous/Graphe-Studio/blob/main/Ressources/EditionNoeud.png">
-  <img alt="Image du menu de création d'un noeud" src="https://github.com/Wanous/Graphe-Studio/blob/main/Ressources/CreationNoeud.png">
+  <img alt="Image du menu d'édition d'un noeud" style="height:30%;width:30%;" src="https://github.com/Wanous/Graphe-Studio/blob/main/Ressources/EditionNoeud.png">
+  <img alt="Image du menu de création d'un noeud" style="height:30%;width:30%;" src="https://github.com/Wanous/Graphe-Studio/blob/main/Ressources/CreationNoeud.png">
 </div>
 
 ## Menu
