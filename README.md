@@ -20,8 +20,10 @@ Le logiciel débutera par une fenêtre dans laquelle vous pourrez choisir un typ
 ou vous pouvez directement en importer un .
 
 Suite à cela vous serez accueilli par l'interface principale dans laquelle vous pourrez laisser
-libre cours à votre créativité pour votre graphe .
-Aussi l'interface de l'application a été produit avec la bibliothèque Tkinter et est complétement redimensionnable à votre souhait 
+libre cours à votre créativité pour votre graphe .Vous y retrouverez un tableur dans lequel il sera afficher les informations
+des noeuds de votre graphe puis un canevas qui illustrera votre graphe et permetra d'intéragir avec celui-ci.
+Aussi l'interface de l'application a été produit avec la bibliothèque Tkinter et est complétement redimensionnable à votre souhait .
+
 Voici une photo pour illuster l'interface en mettant en valeur les possibilités offertes :
 
 # ![Logo.png](https://github.com/Wanous/Graphe-Studio/blob/main/Ressources/Interface.png)
