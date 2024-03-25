@@ -35,6 +35,10 @@ votre graphe à partir de quelque clique :
 - `Clique gauche sur un noeud` : Modifier ou supprimer un noeud
 - `Clique gauche hors d'un noeud` : Ajouter un noeud
 - `Clique droit sur un noeud` : permet de le sélectionner pour le déplacer
+
+Voici à quoi ressemble ces menus :
+# ![Logo.png](https://github.com/Wanous/Graphe-Studio/blob/main/Ressources/EditionNoeud.png)
+# ![Logo.png](https://github.com/Wanous/Graphe-Studio/blob/main/Ressources/CreationNoeud.png)
   
 #### Boutons
 
