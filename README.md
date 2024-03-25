@@ -30,7 +30,7 @@ mettant en valeur les possibilités offertes :
 
 ## Interragir avec votre graphe 
 Il est possible d'ajouter,de supprimer ou même de modifier un noeud de 
-votre graphe à partir de quelque clique :
+votre graphe à partir de quelques cliques :
 
 - `Clique gauche sur un noeud` : Modifier ou supprimer un noeud
 - `Clique gauche hors d'un noeud` : Ajouter un noeud
