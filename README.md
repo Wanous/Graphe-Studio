@@ -21,8 +21,8 @@ ou vous pouvez directement en importer un .
 
 Suite à cela vous serez accueilli par l'interface principale dans laquelle vous pourrez laisser
 libre cours à votre créativité pour votre graphe .
-Aussi l'interface de l'application a été produit avec la bibliothèque Tkinter dont voici une photo 
-mettant en valeur les possibilités offertes :
+Aussi l'interface de l'application a été produit avec la bibliothèque Tkinter et est complétement redimensionnable à votre souhait 
+Voici une photo pour illuster l'interface en mettant en valeur les possibilités offertes :
 
 # ![Logo.png](https://github.com/Wanous/Graphe-Studio/blob/main/Ressources/Interface.png)
 
@@ -49,7 +49,7 @@ Voici un tableau contenant les noms et rôles de chaque menu de la barre :
 
 | Menu | rôle |
 | ------ | ------ |
-| Fichier | Menu permettant de sauvegarder/importer un graphe `.graf` ,de commmencer un nouveau graphe ,de prendre une photo d'un graphe en `.png` et de quitter le logiciel .|
+| Fichier | Menu permettant de sauvegarder/importer un graphe qui est un fichier `.graf` ,de commmencer un nouveau graphe ,de prendre une photo d'un graphe en `.png` et de quitter le logiciel .|
 | Doc | Menu contenant des informations sur les types de graphes que contient le logiciel pour aider.Pratique pour ceux qui ne connaissent pas ou oublié ce que sont les graphes et les différents types de ces derniers présent dans le logiciel .  |
 | Console |  Menu permettant l'ouverture de la console ,un outil pour effectuer des opérations avancés sur un graphe comme un parcours en profondeur ou l'algorithme de Dijkstra .  |
 | Preferences | Menu permettant de choisir la couleur du tableur et du canevas ainsi que de faire apparaître ou disparaître des informations sur le canevas pour une meilleurs visibilité .Il donne aussi la possiblité de pouvoir sauvegarder les préférences . |
@@ -67,6 +67,9 @@ Quelques raccourcies sont aussi disponible :
 - `flèche du haut` : ancienne commande (comme dans une invite de commande)
 - `flèche du bas` : supprime la commande
 - `entrée` : envoie la commande
+
+## Extension .graf 
+Graphe Studio posséde sa propre extension de fichier nommée `.graf` .Cela permet de relier ce type de fichier à l'application
   
 
 
