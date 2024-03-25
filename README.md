@@ -1,6 +1,11 @@
 # Graphe Studio
 # ![Logo.png](https://github.com/Wanous/Graphe-Studio/blob/main/Ressources/Logo.png)
-<img alt="Taille du code GitHub" src="https://img.shields.io/github/languages/code-size/Wanous/Graphe-Studio?label=taille%20du%20code">
+
+<div align=center>
+  <img alt="Taille du code GitHub" src="https://img.shields.io/github/languages/code-size/Wanous/Graphe-Studio?label=taille%20du%20code">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Wanous/Graphe-Studio?logo=github&style=plastic">
+  <img alt="License" src="https://img.shields.io/github/license/Wanous/Graphe-Studio?style=plastic">
+</div>
 
 Graphe Studio est un logiciel permettant la création de graphe orienté comme non orienté 
 de manière simple ,rapide et efficace destiné à de multiple usage .
@@ -39,8 +44,11 @@ votre graphe à partir de quelques cliques :
 - `Clique droit sur un noeud` : permet de le sélectionner pour le déplacer
 
 Voici à quoi ressemble ces menus :
-# ![Logo.png](https://github.com/Wanous/Graphe-Studio/blob/main/Ressources/EditionNoeud.png)
-# ![Logo.png](https://github.com/Wanous/Graphe-Studio/blob/main/Ressources/CreationNoeud.png)
+
+<div align=left>
+  <img alt="Image du menu d'édition d'un noeud" src="https://github.com/Wanous/Graphe-Studio/blob/main/Ressources/EditionNoeud.png">
+  <img alt="Image du menu de création d'un noeud" src="https://github.com/Wanous/Graphe-Studio/blob/main/Ressources/CreationNoeud.png">
+</div>
 
 ## Menu
 
