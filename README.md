@@ -42,7 +42,7 @@ Voici à quoi ressemble ces menus :
 
 ## Menu
 
-Graphe Studio contient un menu dans lequel vous trouverez tout ce qu'il vous faut pour configurer 
+Graphe Studio contient une barre de menu dans lequel vous trouverez tout ce qu'il vous faut pour configurer 
 vos préférences comme sauvegarder votre graphe .
 
 Voici un tableau contenant les noms et rôles de chaque menu de la barre :
@@ -50,25 +50,25 @@ Voici un tableau contenant les noms et rôles de chaque menu de la barre :
 | Menu | rôle |
 | ------ | ------ |
 | Fichier | Menu permettant de sauvegarder/importer un graphe `.graf` ,de commmencer un nouveau graphe ,de prendre une photo d'un graphe en `.png` et de quitter le logiciel .|
-| Doc | Menu contenant des informations sur les types de graphes que contient le logiciel pour aider.Pratique pour ceux qui ne connaissent pas/oublier ce que sont les graphes .  |
+| Doc | Menu contenant des informations sur les types de graphes que contient le logiciel pour aider.Pratique pour ceux qui ne connaissent pas ou oublié ce que sont les graphes et les différents types de ces derniers présent dans le logiciel .  |
 | Console |  Menu permettant l'ouverture de la console ,un outil pour effectuer des opérations avancés sur un graphe comme un parcours en profondeur ou l'algorithme de Dijkstra .  |
-| Preferences | Menu permettant de choisir la couleur du tableur et du canevas ainsi que de faire apparaître ou disparaître des informations sur le canevas pour une meilleurs visibilité .Il donne aussi la possiblité de sauvegarder les préférences . |
+| Preferences | Menu permettant de choisir la couleur du tableur et du canevas ainsi que de faire apparaître ou disparaître des informations sur le canevas pour une meilleurs visibilité .Il donne aussi la possiblité de pouvoir sauvegarder les préférences . |
 | Projet | Menu affichant un simple message qui indique que c'est un projet réaliser dans le cadre d'un concours|
 
   
-#### Boutons
+### Raccourcie
+Quelques raccourcies sont aussi disponible :
+#### Raccourcie pour des sous-menus de la barre de menu
+- `ctrl + s` : sauvegarder un graphe
+- `ctrl + o` : importer un graphe
+- `ctrl + n` : commencer un nouveau graphe
 
-Les boutons ambigus sont répertoriés ici, les autres sont faciles à comprendre
+- #### Raccourcie pour la console
+- `flèche du haut` : ancienne commande (comme dans une invite de commande)
+- `flèche du bas` : supprime la commande
+- `entrée` : envoie la commande
+  
 
-- `C` : Effacer l'entrée (et l'ancien résultat)
-- `DEL` : Supprimez le dernier caractère de l'entrée
-- `d/dx` : Dérivez l'entrée
-- `x^n` : Ajoutez `^` à l'entrée (par exemple `2^3` sera `8`)
-- `x` : Ajoutez `x` à l'entrée
-- `Draw` : Dessinez l'entrée sous forme d'arbre
-- `Hist.` : Passer à l'onglet de l'historique
-- `=` : Ajoutez `=` à l'entrée
-- `EXE` : Calculez l'entrée (ou résolvez l'équation, en fonction de la présence de = dans l'expression)
 
 
 
