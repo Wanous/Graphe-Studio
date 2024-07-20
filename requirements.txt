@@ -1,0 +1,5 @@
+tkhtmlview == 0.3.0
+tk==0.1.0
+Pillow >= 7
+urllib3 == 2.2.1
+
