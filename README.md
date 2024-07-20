@@ -73,6 +73,7 @@ Quelques raccourcies sont aussi disponible :
 - `ctrl + s` : sauvegarder un graphe
 - `ctrl + o` : importer un graphe
 - `ctrl + n` : commencer un nouveau graphe
+- `ctrl + z` : revenir en arrière dans le graphe
 
 - #### Raccourcis pour la console
 - `flèche du haut` : ancienne commande (comme dans une invite de commande)
